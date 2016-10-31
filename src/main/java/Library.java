@@ -6,6 +6,9 @@
  */
 public class Library {
     public boolean someLibraryMethod() {
+    	
+    	int a = 3;
+    	
         return true;
     }
 }
